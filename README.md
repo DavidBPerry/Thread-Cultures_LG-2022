@@ -57,6 +57,10 @@ The garment patterns were traced off of a TV.
 See the [Consolidated Patterns.pdf](https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Patterns/ConsolidatedPatterns.pdf) file for the full set of garment patterns used for the top, coat, and pants. Patterns were modified from existing digital patterns purchased on Etsy, see links below for original patterns.
 
  *Original pattern links: [Coat](https://www.etsy.com/listing/474777116/pdf-sewing-pattern-women-straight-cut?ref=yr_purchases) ; [Basic Bodice](https://www.etsy.com/listing/963966118/womens-basic-bodice-blocks-size-2-14?ref=yr_purchases) ; [Trouser](https://www.etsy.com/listing/1141542434/womens-basic-trouser-block-size-2-14?ref=yr_purchases)*
+ 
+## Additional links & helpful bits
+- [**PREMIER+ 2 Embroidery**](https://www.premierplusembroidery.com/en/Downloads/PP-Software-Downloads) - Embroidery software with free version, good for viewing embroidery designs and light editing
+- [Embroidered Typography](https://www.davidbperry.com/#/embroidered-typography/) - A precursor project to Thread Cultures. Tested various computational embroidery textures and techniques. Much of the code used for the designs on the outfit was taken from this project.
 
 ## Credits
 Design & Production of garments by David Perry
