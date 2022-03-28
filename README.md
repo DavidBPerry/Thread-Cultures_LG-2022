@@ -2,9 +2,9 @@
 
 ## About the Project
 
-|       |       |
-|----------------|-------------------------------|
-|||
+|     <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/SmallImages/IMG_2002%20Large.jpeg?raw=true" width="400">   |   <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/SmallImages/IMG_2058%20Large.jpeg?raw=true" width="400">     |  <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/SmallImages/IMG_2021%20Large.jpeg?raw=true" width="400">  |
+|----------------|-------------------------------|-----|
+
 
 *images coming soon*
 This repository contains the documentation, code, and patterns for the outfit I created for Lunar Gala 2022. The outfit features computationally generated, machine stitched embroidery unified by lines of hand embroidery. The machine stitched elements represent the gererated 'cultures' on the garment. The combination of hand and machine embroidery allows for improvisational designs that flow across the garment and break the surface of the fabric in unique and experimental ways.
