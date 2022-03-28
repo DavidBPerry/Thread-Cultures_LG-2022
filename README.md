@@ -32,6 +32,7 @@ Design & Production of garments by David Perry
 
 ### Thanks to:
 - Lunar Gala for offering a motivation and platform for this project
+- [Serena Wang](https://www.serena-wang.com) for being a wonderful and accommodating model
 - [The Frank-Ratchye STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/) for their generosity in offering studio space and support as well as their role in the creation of PEmbroider
 
 
