@@ -1,7 +1,7 @@
 # Thread Cultures
 
 ## About the Project
-This repository contains the documentation, code, and patterns for the outfit I created for [Lunar Gala 2022](https://livestream.com/cmutvlive/lg2022). The outfit features computationally generated, machine stitched embroidery unified by lines of hand embroidery. The machine stitched elements represent the generated 'cultures' on the garment. The combination of hand and machine embroidery allows for improvisational designs that flow across the garment and break the surface of the fabric in unique and experimental ways. All machine embroidered designs were generated using [PEmbroider](https://github.com/CreativeInquiry/PEmbroider), a computational embroidery tool built by [The Frank-Ratchye STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/).
+This repository contains the documentation, code, and patterns for the outfit I created for [Lunar Gala 2022](https://livestream.com/cmutvlive/lg2022)(*see timcode 1hr37s for outfit*). The outfit features computationally generated, machine stitched embroidery unified by lines of hand embroidery. The machine stitched elements represent the generated 'cultures' on the garment. The combination of hand and machine embroidery allows for improvisational designs that flow across the garment and break the surface of the fabric in unique and experimental ways. All machine embroidered designs were generated using [PEmbroider](https://github.com/CreativeInquiry/PEmbroider), a computational embroidery tool built by [The Frank-Ratchye STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/).
 
 ### The Garments
 
@@ -14,6 +14,7 @@ This repository contains the documentation, code, and patterns for the outfit I 
 |----------------|-------------------------------|-----|
 |     <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/SmallImages/IMG_1984%20Large.jpeg?raw=true" width="400">   |   <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/SmallImages/IMG_2042%20Large.jpeg?raw=true" width="400">     |  <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/SmallImages/IMG_2095%20Large.jpeg?raw=true" width="400">  |
 
+*for more, higher resolution photos go to [this drive folder](https://drive.google.com/drive/u/0/folders/1aI-UU8TBivmwjbFwUQ8JWoO9bQOAFTXG)*
 
 ## Contents
 ### Working Code
