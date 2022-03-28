@@ -27,6 +27,10 @@ This project gave me a chance try experimental embroidery at a garment scale. A 
 |--|--|--|--|--|--|
 
 
+|     <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/3/IMG_4959.JPG?raw=true" width="400">   |   <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/3/IMG_4960.JPG?raw=true" width="400">      |  <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/3/IMG_4961.JPG?raw=true" width="400">    |    <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/3/IMG_4966.JPG?raw=true" width="400">   |   <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/3/IMG_4970.JPG?raw=true" width="400">      |  <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/3/IMG_4971.JPG?raw=true" width="400">    |
+|--|--|--|--|--|--|
+
+
 ## Contents
 ### Working Code
 - **[Fills](https://github.com/DavidBPerry/Thread-Cultures_LG-2022/tree/main/WorkingCode/FILLS)** - library of generative embroidered textures. 
