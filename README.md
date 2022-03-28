@@ -2,6 +2,10 @@
 
 ## About the Project
 
+|![image](https://drive.google.com/uc?export=view&id=1D45cq2MjNhLYnHj9wUVho-mJ3_NZT9wl)               |  ![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG)                        |       
+|----------------|-------------------------------|
+|<a href="https://drive.google.com/uc?export=view&id=1D45cq2MjNhLYnHj9wUVho-mJ3_NZT9wl"><img src="https://drive.google.com/uc?export=view&id=1D45cq2MjNhLYnHj9wUVho-mJ3_NZT9wl" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />||
+
 *images coming soon*
 This repository contains the documentation, code, and patterns for the outfit I created for Lunar Gala 2022. The outfit features computationally generated, machine stitched embroidery unified by lines of hand embroidery. The machine stitched elements represent the gererated 'cultures' on the garment. The combination of hand and machine embroidery allows for improvisational designs that flow across the garment and break the surface of the fabric in unique and experimental ways.
 
