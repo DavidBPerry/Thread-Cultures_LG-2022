@@ -31,6 +31,7 @@ This project gave me a chance try experimental embroidery at a garment scale. A 
 
 ##### Darts marked for embroidery
 The darts were marked prior to embroidery to prevent any unwanted overlap.
+
 <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/2/IMG_4932.JPG?raw=true" width="400">
 
 
