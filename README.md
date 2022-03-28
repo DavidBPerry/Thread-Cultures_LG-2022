@@ -36,9 +36,13 @@ The darts were marked prior to embroidery to prevent any unwanted overlap.
 <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/2/IMG_4932.JPG?raw=true" width="400">
 
 #### Embroidered Samples
+It took a number of iterations to settle on the standard design and flow of the embroidered designs.
+
 <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/IMG_4727.JPG?raw=true" width="400">
 
 #### Tracing Patterns
+The garment patterns were traced off of a TV.
+
 <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/IMG_4851.JPG?raw=true" width="400">
 
 
