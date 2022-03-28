@@ -19,23 +19,30 @@ This repository contains the documentation, code, and patterns for the outfit I 
 ## About the Process
 This project gave me a chance try experimental embroidery at a garment scale. A lot of experimentation and iteration was necessary to reach the final result. Some excerpts from the process are shown below.
 
-##### Stitching the design & frame
+#### Stitching the design & frame
 |     <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/2/IMG_4815.JPG?raw=true" width="400">   |   <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/2/IMG_4818.JPG?raw=true" width="400">      |  <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/2/IMG_4821.JPG?raw=true" width="400">    |
 |--|--|--|
 
 |     <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/1/IMG_4880.JPG?raw=true" width="400">   |   <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/1/IMG_4885.JPG?raw=true" width="400">      |  <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/1/IMG_4891.JPG?raw=true" width="400">    |    <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/1/IMG_4896.JPG?raw=true" width="400">   |   <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/1/IMG_4902.JPG?raw=true" width="400">      |  <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/1/IMG_4904.JPG?raw=true" width="400">    |
 |--|--|--|--|--|--|
 
+
 |     <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/3/IMG_4959.JPG?raw=true" width="400">   |   <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/3/IMG_4960.JPG?raw=true" width="400">      |  <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/3/IMG_4961.JPG?raw=true" width="400">    |    <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/3/IMG_4966.JPG?raw=true" width="400">   |   <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/3/IMG_4970.JPG?raw=true" width="400">      |  <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/3/IMG_4971.JPG?raw=true" width="400">    |
 |--|--|--|--|--|--|
 
-##### Darts marked for embroidery
+#### Darts marked for embroidery
 The darts were marked prior to embroidery to prevent any unwanted overlap.
-
 <img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/2/IMG_4932.JPG?raw=true" width="400">
 
+#### Embroidered Samples
+<img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/IMG_4727.JPG?raw=true" width="400">
 
-## Contents
+#### Tracing Patterns
+<img src="https://github.com/DavidBPerry/Thread-Cultures_LG-2022/blob/main/Photos/Process/IMG_4851.JPG?raw=true" width="400">
+
+
+
+## Repo Content
 ### Working Code
 - **[Fills](https://github.com/DavidBPerry/Thread-Cultures_LG-2022/tree/main/WorkingCode/FILLS)** - library of generative embroidered textures. 
 - **[Frame Double Layer](https://github.com/DavidBPerry/Thread-Cultures_LG-2022/tree/main/WorkingCode/FRAME_DoubleLayer)** - library of frames used for the coat and pants. Includes the additional solvent lace ring on the interior. 
